@@ -5,10 +5,13 @@ Dan Device kalian juga akan terkena Banned , Ada beberapa syarat yang harus kali
 SYARAT : VALORANT KALIAN SETTINGANNYA WAJIB
 1. RAW INPUT BUFFER : ON
 2. WARNA MUSUH KALIAN WAJIB : KUNING
-
 Cara Penggunaan :
 1. Kalian Extract Terlebih Dahulu File Nya
 2. Kalian Buka Dengan Administrator
+
+MAKSUD DARI SLEEP DURATION ITU DELAY MENEMBAK SAAT ADA MUSUH
+KALIAN CUKUP PENCET F1 , F2 , F3 , F4 untuk Mengeset Delaynya Berapa MS
+
 3. Setelah itu Close , Dan Akan Muncul File "config.txt"
 Akan Ada Tulisan:
 hold_mode=1
@@ -19,6 +22,7 @@ tap_time=100
 scan_area_x=8
 scan_area_y=8
 .
+
 - jika hold_mode nya kalian tulis " hold_mode=0 "
   itu akan membuat trigger botnya akan selalu aktif
 
